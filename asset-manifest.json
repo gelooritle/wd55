@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gelooritle/wd55.git/static/css/main.52a4402c.css",
+    "main.js": "/gelooritle/wd55.git/static/js/main.12f49cbd.js",
+    "index.html": "/gelooritle/wd55.git/index.html",
+    "main.52a4402c.css.map": "/gelooritle/wd55.git/static/css/main.52a4402c.css.map",
+    "main.12f49cbd.js.map": "/gelooritle/wd55.git/static/js/main.12f49cbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52a4402c.css",
+    "static/js/main.12f49cbd.js"
+  ]
+}
